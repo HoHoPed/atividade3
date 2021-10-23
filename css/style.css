@@ -1,0 +1,73 @@
+body { 
+    background:#09a1e4 !important;
+ }
+
+#linha{
+    align-items: center !important;
+    text-align: center;
+} 
+
+.header {
+    text-align: center;
+    overflow:  hidden;
+    background-color: #333;
+    padding: 20px 10px;
+}
+
+.header a {
+    color: #09a1e4;
+    text-align: center;
+    padding:  12px;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+.header a.logo {
+    font-size: 25px;
+    color: #09a1e4;
+}
+
+.header a:hover {
+    background-color: #09a1e4;
+    font-size: 25px;
+    color: #00558c;
+}
+
+.titulo {
+    text-align:  center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+.body{
+    background-color: #333;
+}
+
+.rodape {
+    color: #09a1e4;
+    padding: 20px;
+    text-align: center;
+    background: #333;
+    margin-top: 350px;
+}
+
+
+
+.rodape2 {
+    color: #09a1e4;
+    padding: 20px;
+    text-align: center;
+    background: #333;
+}
+
+.carros{
+    align-items: center;
+}
+
+.for{
+    text-align: center;
+}
+
